@@ -37,15 +37,17 @@ db.py → Database configuration (MongoDB)
    ```bash
    git clone https://github.com/Sdas07/Railway-Booking-system.git
    cd railway-booking-system
+
+install dependencies:
 pip install -r requirements.txt
+
+Run the App
 python app.py
 
-This project is open source and free to use under the MIT License.
-
-markdown
-Copy
-Edit
 Author 
 Sohom Das
 Aspiring Full Stack Developer | Learning Figma & Linux
 https://www.linkedin.com/in/sohomdas9/
+
+This project is open source and free to use under the MIT License.
+markdown Copy Edit
